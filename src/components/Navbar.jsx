@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './Navbar.css';
 
 export default class Navbar extends Component {
   render() {
@@ -6,9 +7,8 @@ export default class Navbar extends Component {
       <nav>
       <div className="navWide">
           <div className="wideDiv">
-              <a href="https://google.com">Link 1</a>
-              <a href="https://google.com">Link 2</a>
-              <a href="https://google.com">Link 3</a>
+              <a href="https://github.com/colin-bethea/dijkstraVisualizer">Source Code</a>
+              <a href="https://www.colinbethea.com/">About Me</a>
               </div>
           </div>
       </nav>
