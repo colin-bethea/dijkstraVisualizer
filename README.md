@@ -1,6 +1,6 @@
-# djikstraVisualizer
+# dijkstraVisualizer
 
-(djikstraVisualizer) is a pathfinding visualizer built in Javascript/React to demonstrate Djikstra's Algorithm (weighted).
+(dijkstraVisualizer) is a pathfinding visualizer built in Javascript/React to demonstrate Dijkstra's Algorithm (weighted).
 
 ## Getting Started
 
@@ -19,13 +19,13 @@ NPM/Node, React, Javascript
 Clone the repository on your local machine
 
 ```
-git clone https://github.com/colin-bethea/djikstraVisualizer
+git clone https://github.com/colin-bethea/dijkstraVisualizer
 ```
 
 Go to the new directory
 
 ```
-cd djikstraVisualizer
+cd dijkstraVisualizer
 ```
 
 Install node modules
